@@ -23,29 +23,4 @@
  
   ![Snake animation](https://github.com/oMarcosAugusto/oMarcosAugusto/blob/output/github-contribution-grid-snake.svg)
 
-  // Obtém a referência para o elemento SVG da cobrinha
-const snake = document.getElementById('cobra');
-
-// Define as coordenadas iniciais da cobrinha
-let x = 0;
-let y = 0;
-
-// Função para mover a cobrinha
-function moverCobrinha() {
-    // Atualiza as coordenadas da cobrinha
-    x += 1;
-    y += 1;
-
-    // Move a cobrinha para as novas coordenadas
-    snake.setAttribute('x', x);
-    snake.setAttribute('y', y);
-
-    // Chama a função novamente após um curto intervalo para criar uma animação contínua
-    requestAnimationFrame(moverCobrinha);
-}
-
-// Chama a função pela primeira vez para iniciar a animação
-moverCobrinha();
-
-
 </div>
