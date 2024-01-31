@@ -13,6 +13,8 @@
  <img align="center" alt="Js" height="30" width="40" 
   src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
  <img align="center" alt="Js" height="30" width="40" 
+  src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">
+ <img align="center" alt="Js" height="30" width="40" 
   src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> 
 </div>
